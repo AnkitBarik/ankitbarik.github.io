@@ -29,7 +29,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: AnkitBarik/ankitbarik.github.io
           personal_token: ${{ secrets.GH_TOKEN }}
           user_name: AnkitBarik
           user_email: ankit.barik@gmail.com
