@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: ankitbarik.github.io/sitemap.xml
