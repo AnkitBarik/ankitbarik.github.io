@@ -26,9 +26,9 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          #github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          actions_deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: AnkitBarik/ankitbarik.github.io
           personal_token: ${{ secrets.GH_TOKEN }}
           user_name: AnkitBarik
