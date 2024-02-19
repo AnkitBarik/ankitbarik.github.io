@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ankit Barik
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ankit
+last_name: Barik
 
 # Status emoji
 status:
@@ -17,73 +17,86 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Johns Hopkins University
+    url: https://www.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include fluid dynamics and magnetohydrodynamics of planetary and stellar interiors, computational fluid dynamics and turbulence.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Planetary and Stellar Interiors
+  - MHD and Dynamo theory
+  - Fluid dynamics
+  - High performance computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Physics
+      institution: Max Planck Institute for Solar System Research, Göttingen, Germany
+      year: 2017
+    - course: MSc in Exploration Geophysics/Minor in Physics
+      institution: Indian Institute of Technology, Kharagpur
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+      - name: Planetary and Stellar Interiors
         description: ''
         percent: 100
-        icon: chart-line
+        icon: sun
         icon_pack: fas
-      - name: SQL
+      - name: Fluid dynamics
         description: ''
-        percent: 40
-        icon: database
+        percent: 100
+        icon: water
+        icon_pack: fas
+      - name: Dynamo theory
+        description: ''
+        percent: 100
+        icon: compass
+        icon_pack: fas
+      - name: Python
+        description: ''
+        percent: 100
+        icon: python
+        icon_pack: fab
+      - name: ForTran
+        description: ''
+        percent: 100
+        icon: code
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Music
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: guitar
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Karate
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: person
+        icon_pack: fas
+      - name: Video/Audio editing
+        description: ''
+        percent: 70
+        icon: file-video
+        icon_pack: fas
+      - name: Gaming
+        description: ''
+        percent: 60
+        icon: gamepad
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,22 +106,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:abarik@jhu.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/MHDwizard
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=mgCeHHMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/AnkitBarik
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +133,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi everyone! I am an Assistant Research Scientist at Johns Hopkins University. My research involves the study of fluid dynamics of planetary and stellar interiors and their magnetic fields through the use of fluid dynamics simulations (often involving magnetic fields) on big supercomputers. Besides this, I also take a keen interest in research on fundamental fluid dynamics, particularly those applicable to rotating spheres and spherical shells.
 {style="text-align: justify;"}

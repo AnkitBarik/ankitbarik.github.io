@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Assistant Research Scientist
+          company: Johns Hopkins University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Baltimore, USA
+          date_start: '2022-11-20'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,13 +75,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Postdoctoral Fellow
+          company: Johns Hopkins University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Baltimore, USA
+          date_start: '2017-11-20'
+          date_end: '2022-11-20'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
@@ -254,7 +254,7 @@ sections:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '37.4275'
-        longitude: '-122.1697'  
+        longitude: '-122.1697'
       contact_links:
         - icon: twitter
           icon_pack: fab
