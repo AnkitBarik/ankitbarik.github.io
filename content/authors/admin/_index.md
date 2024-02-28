@@ -74,6 +74,11 @@ skills:
         percent: 100
         icon: code
         icon_pack: fas
+      - name: OpenFOAM
+        description: ''
+        percent: 40
+        icon: caret-down
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
