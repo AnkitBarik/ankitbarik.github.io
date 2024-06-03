@@ -46,63 +46,63 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Planetary and Stellar Interiors
-        description: ''
-        percent: 100
-        icon: sun
-        icon_pack: fas
-      - name: Fluid dynamics
-        description: ''
-        percent: 100
-        icon: water
-        icon_pack: fas
-      - name: Dynamo theory
-        description: ''
-        percent: 100
-        icon: compass
-        icon_pack: fas
-      - name: Python
-        description: ''
-        percent: 100
-        icon: python
-        icon_pack: fab
-      - name: ForTran
-        description: ''
-        percent: 100
-        icon: code
-        icon_pack: fas
-      - name: OpenFOAM
-        description: ''
-        percent: 40
-        icon: caret-down
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Music
-        description: ''
-        percent: 60
-        icon: guitar
-        icon_pack: fas
-      - name: Karate
-        description: ''
-        percent: 80
-        icon: person
-        icon_pack: fas
-      - name: Video/Audio editing
-        description: ''
-        percent: 70
-        icon: file-video
-        icon_pack: fas
-      - name: Gaming
-        description: ''
-        percent: 60
-        icon: gamepad
-        icon_pack: fas
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Planetary and Stellar Interiors
+#         description: ''
+#         percent: 100
+#         icon: sun
+#         icon_pack: fas
+#       - name: Fluid dynamics
+#         description: ''
+#         percent: 100
+#         icon: water
+#         icon_pack: fas
+#       - name: Dynamo theory
+#         description: ''
+#         percent: 100
+#         icon: compass
+#         icon_pack: fas
+#       - name: Python
+#         description: ''
+#         percent: 100
+#         icon: python
+#         icon_pack: fab
+#       - name: ForTran
+#         description: ''
+#         percent: 100
+#         icon: code
+#         icon_pack: fas
+#       - name: OpenFOAM
+#         description: ''
+#         percent: 40
+#         icon: caret-down
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Music
+#         description: ''
+#         percent: 60
+#         icon: guitar
+#         icon_pack: fas
+#       - name: Karate
+#         description: ''
+#         percent: 80
+#         icon: person
+#         icon_pack: fas
+#       - name: Video/Audio editing
+#         description: ''
+#         percent: 70
+#         icon: file-video
+#         icon_pack: fas
+#       - name: Gaming
+#         description: ''
+#         percent: 60
+#         icon: gamepad
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
