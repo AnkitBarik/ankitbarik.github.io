@@ -31,7 +31,7 @@ image:
 projects: [planetmagfields]
 publishDate: '2024-06-03T00:05:39.363120Z'
 publication_types:
-- '2'
+
 abstract: Long term observations and space missions have generated a wealth of data
   on the magnetic fields of the Earth and other solar system planets. `planetMagfields`
   is a Python package designed to have all the planetary magnetic field data currently

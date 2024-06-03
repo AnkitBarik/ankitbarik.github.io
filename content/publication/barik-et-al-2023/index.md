@@ -33,7 +33,7 @@ image:
 projects: [convection]
 publishDate: '2024-06-03T00:05:40.037240Z'
 publication_types:
-- '2'
+
 abstract: Convection in rotating spherical layers of fluid is ubiquitous in spherical
   astrophysical objects like planets and stars. A complete understanding of the magnetohydrodynamics
   requires understanding of the linear problem---when convection onsets in these systems.

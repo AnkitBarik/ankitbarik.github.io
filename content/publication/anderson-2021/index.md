@@ -37,7 +37,7 @@ image:
 projects: [earth]
 publishDate: '2024-06-03T00:05:39.056454Z'
 publication_types:
-- '2'
+
 abstract: Characterization of Earth's magnetic field is key to understanding dynamics
   of the core. We assess whether Iridium Communications magnetometer data can be used
   for this purpose since. The 66 Iridium satellites are in 86$^∘$ inclination, 780

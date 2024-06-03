@@ -32,7 +32,7 @@ image:
 projects: [couette]
 publishDate: '2024-06-03T00:05:39.660332Z'
 publication_types:
-- '2'
+
 abstract: The spherical Couette system, consisting of a viscous fluid between two
   differentially rotating concentric spheres, is studied using numerical simulations
   and compared with experiments performed at BTU Cottbus-Senftenberg, Germany. We

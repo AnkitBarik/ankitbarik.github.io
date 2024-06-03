@@ -35,7 +35,7 @@ image:
 projects: [couette]
 publishDate: '2024-06-03T00:05:40.399825Z'
 publication_types:
-- '2'
+
 abstract: Understanding fluid flows in planetary cores and subsurface oceans, as well
   as their signatures in available observational data (gravity, magnetism, rotation,
   etc.), is a tremendous interdisciplinary challenge. In particular, it requires understanding

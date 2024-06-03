@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2024-06-03T00:24:25.004569Z'
 publication_types:
-- '2'
+
 abstract: The future viability of the geosciences is challenged, since as a community
   we continue to lack demographic diversity representative of the wider population.
   Fundamentally, dominant cultural, historical, and socioeconomic factors contribute

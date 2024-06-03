@@ -38,7 +38,7 @@ image:
 projects: [gas-giants]
 publishDate: '2024-06-03T00:05:40.752141Z'
 publication_types:
-- '2'
+
 abstract: Understanding Jupiter's present-day interior structure and dynamics is key
   to constraining planetary accretion models. In particular, the extent of stable
   stratification (i.e., non-convective regions) in the planet strongly influences

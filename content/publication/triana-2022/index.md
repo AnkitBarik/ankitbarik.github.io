@@ -32,7 +32,7 @@ image:
 projects: [sun]
 publishDate: '2024-06-03T00:05:41.402385Z'
 publication_types:
-- '2'
+
 abstract: The observation of global acoustic waves (p modes) in the Sun has been key
   to unveiling its internal structure and dynamics. A different kind of wave, known
   as sectoral Rossby modes, has been observed and identified, which potentially opens

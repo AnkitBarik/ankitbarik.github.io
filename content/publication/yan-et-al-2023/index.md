@@ -37,7 +37,7 @@ image:
 projects: [mars]
 publishDate: '2024-06-03T00:05:41.732325Z'
 publication_types:
-- '2'
+
 abstract: Magnetic field observations from the MGS, MAVEN, and InSight missions reveal
   that a dynamo was active in Mars's early history. One unique feature of Mars's magnetic
   crustal field is its hemispheric dichotomy, where magnetic fields in the southern

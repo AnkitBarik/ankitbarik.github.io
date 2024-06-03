@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2024-06-03T00:05:41.084246Z'
 publication_types:
-- '2'
+
 abstract: Observational constraints on Mercury's thermal evolution and magnetic field indicate that the top part of the fluid core is stably stratified. Here we compute how a stable layer affects the core flow in response to Mercury's main 88 day longitudinal libration, assuming various degrees of stratification, and study whether the core flow can modify the libration amplitude through viscous and electromagnetic torques acting on the core–mantle boundary (CMB). We show that the core flow strongly depends on the strength of the stratification near the CMB but that the influence of core motions on libration is negligible with or without a stably stratified layer. A stably stratified layer at the top of the core can, however, prevent resonant behavior with gravito-inertial modes by impeding radial motions and promote a strong horizontal flow near the CMB. The librationally driven flow is likely turbulent and might produce a nonaxisymmetric induced magnetic field with a strength of the order of 1% of Mercury's dipolar field.
 publication: '*The Planetary Science Journal*'
 doi: 10.3847/PSJ/acee77
