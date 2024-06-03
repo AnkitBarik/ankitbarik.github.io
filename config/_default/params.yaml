@@ -6,10 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  mode: light
+  theme_day:  minimal
+  theme_night: dark
+  font: native
   font_size: L
+  color: green
 
 # SEO
 
@@ -17,13 +19,13 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Johns Hopkins University'
+    description: Ankit Barik
+    twitter:
   analytics:
-    google_analytics: ''
+    google_analytics: 'Ankit Barik, Research Scientist, dynamos, planetary science'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'Ankit Barik, Research Scientist, dynamos, planetary science'
     microsoft_clarity: ''
   verification:
     google: ''

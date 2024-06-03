@@ -1,8 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: 'planetMagFields: A Python Package for Analyzing Andplotting Planetary Magnetic
-  Field Data'
+title: 'planetMagFields: A Python Package for Analyzing And plotting Planetary Magnetic Field Data'
 subtitle: ''
 summary: ''
 authors:

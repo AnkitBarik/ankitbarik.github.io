@@ -25,7 +25,7 @@ organizations:
     url: https://www.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fluid dynamics and magnetohydrodynamics of planetary and stellar interiors, computational fluid dynamics and turbulence.
+bio: Research interests include fluid dynamics and magnetohydrodynamics of planetary and stellar interiors, computational fluid dynamics and turbulence.
 
 # Interests to show in About widget
 interests:
@@ -138,5 +138,5 @@ social:
 highlight_name: true
 ---
 
-Hi everyone! I am an Assistant Research Scientist at Johns Hopkins University. My research involves the study of fluid dynamics of planetary and stellar interiors and their magnetic fields through the use of fluid dynamics simulations (often involving magnetic fields) on big supercomputers. Besides this, I also take a keen interest in research on fundamental fluid dynamics, particularly those applicable to rotating spheres and spherical shells.
+Hi everyone! I am an Assistant Research Scientist at Johns Hopkins University. My research involves the study of fluid dynamics of planetary and stellar interiors and their magnetic fields through the use of fluid dynamics and magnetohydrodynamic (MHD) simulations on big supercomputers. Besides this, I also take a keen interest in research on fundamental fluid dynamics, particularly those applicable to rotating spheres and spherical shells. In my spare time, I like playing music and writing songs. Martial arts is another passion of mine and I hold a black belt in Shotokan karate.
 {style="text-align: justify;"}
