@@ -20,12 +20,12 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Johns Hopkins University'
-    description: Ankit Barik
-    twitter:
+    description: "Ankit Barik, Researcher at Johns Hopkins University, working on dynamos, planetary science"
+    twitter: MHDWizard
   analytics:
-    google_analytics: 'Ankit Barik, Research Scientist, dynamos, planetary science'
+    google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: 'Ankit Barik, Research Scientist, dynamos, planetary science'
+    google_tag_manager: ''
     microsoft_clarity: ''
   verification:
     google: ''
