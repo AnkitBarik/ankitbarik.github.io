@@ -158,6 +158,7 @@ sections:
     id: publications
     content:
       title: Publications
+      count: 3
       filters:
         folders:
           - publication

@@ -138,5 +138,7 @@ social:
 highlight_name: true
 ---
 
-Hi everyone! I am an Assistant Research Scientist at Johns Hopkins University. My research involves the study of fluid dynamics of planetary and stellar interiors and their magnetic fields through the use of fluid dynamics and magnetohydrodynamic (MHD) simulations on big supercomputers. Besides this, I also take a keen interest in research on fundamental fluid dynamics, particularly those applicable to rotating spheres and spherical shells. In my spare time, I like playing music and writing songs. Martial arts is another passion of mine and I hold a black belt in Shotokan karate.
+Hi everyone! I am an Assistant Research Scientist at Johns Hopkins University. My research involves the study of fluid dynamics of planetary and stellar interiors and their magnetic fields through the use of fluid dynamics and magnetohydrodynamic (MHD) simulations on big supercomputers. I am a one of the lead developers of the 3D MHD code [MagIC](https://magic-sph.github.io/), the linear solver [Kore](https://github.com/repepo/kore) and have also contributed to the development of the magnetospheric code [GAMERA](https://cgs.jhuapl.edu/Models/gamera.php). I am part of the Magnetism & Planetary Interiors (MagPI) group led by [Sabine Stanley](https://sabinestanley.com/). I also take a keen interest in research on fundamental fluid dynamics, particularly those applicable to rotating spheres and spherical shells.
+
+In my spare time, I like [playing music and writing songs](https://www.instagram.com/theicymoons). Martial arts is another passion of mine and I hold a black belt in Shotokan karate.
 {style="text-align: justify;"}
