@@ -221,8 +221,8 @@ sections:
         folders:
           - outreach
     design:
-      columns: '2'
-      view: masonry
+      columns: '1'
+      view: showcase
   # - block: markdown
   #   id: gallery
   #   content:
