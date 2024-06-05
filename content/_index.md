@@ -287,11 +287,11 @@ sections:
       coordinates:
         latitude: '39.328154'
         longitude: '-76.623674'
-      # contact_links:
-      #   - icon: twitter
-      #     icon_pack: fab
-      #     name: DM Me
-      #     link: 'https://twitter.com/Twitter'
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: Follow me on Twitter
+          link: 'https://twitter.com/MHDWizard'
       #   - icon: skype
       #     icon_pack: fab
       #     name: Skype Me
