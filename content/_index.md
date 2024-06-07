@@ -193,6 +193,8 @@ sections:
           tag: Satellite data
         - name: Software
           tag: Software
+        - name: Stars
+          tag: Stars
         - name: Waves and modes
           tag: Waves and modes
         # - name: Other
