@@ -112,12 +112,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:abarik@jhu.edu
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/MHDwizard
-    label: Follow me on Twitter
+    link: https://bsky.app/profile/astrodoc.bsky.social
+    label: Follow me on Bluesky
     display:
-      header: true
+      header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=mgCeHHMAAAAJ&hl=en

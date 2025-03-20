@@ -158,7 +158,9 @@ sections:
     id: publications
     content:
       title: Publications
-      count: 3
+      count: 4
+      sort_by: 'Date'
+      sort_ascending: false
       filters:
         folders:
           - publication
