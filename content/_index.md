@@ -292,10 +292,10 @@ sections:
         latitude: '39.328154'
         longitude: '-76.623674'
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Follow me on Twitter
-          link: 'https://twitter.com/MHDWizard'
+        - icon: bsky
+          icon_pack: brands/bsky
+          name: Follow me on BlueSky
+          link: 'https://bsky.app/profile/astrodoc.bsky.social'
       #   - icon: skype
       #     icon_pack: fab
       #     name: Skype Me
