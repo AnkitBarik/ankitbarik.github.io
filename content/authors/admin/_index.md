@@ -115,6 +115,9 @@ social:
   - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/astrodoc.bsky.social
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-5747-669X
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=mgCeHHMAAAAJ&hl=en
