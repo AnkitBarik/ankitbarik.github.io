@@ -7,7 +7,7 @@ name:
   family: Barik
 status:
   icon: "☕️"
-role: Assistant Research Scientist
+role: Planetary Scientist
 
 bio: |
   **I study the fluid dynamics and magnetic fields of planetary and stellar interiors using high-performance MHD simulations, and work as a research software engineer building physics-based simulation pipelines.**

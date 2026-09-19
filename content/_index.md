@@ -34,7 +34,7 @@ sections:
       title: Codes I Build
       text: |-
         {{< cards cols="3" >}}
-        {{< card url="/project/magic/" title="MagIC" subtitle="3D MHD code for planetary & stellar interiors" icon="bolt" >}}
+        {{< card url="/project/magic/" title="MagIC" subtitle="3D MHD code — used in 170+ papers" icon="bolt" >}}
         {{< card url="/project/kore/" title="Kore" subtitle="Spectral MHD eigenvalue solver" icon="code-bracket" >}}
         {{< card url="/project/planetmagfields/" title="planetMagFields" subtitle="Visualize planetary magnetic field data" icon="globe-alt" >}}
         {{< /cards >}}

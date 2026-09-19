@@ -13,3 +13,24 @@ div:has(> .flex.flex-wrap.gap-3) > .flex.items-center.gap-4.mb-8 {
   text-transform: none;
   letter-spacing: normal;
 }
+
+/* "Codes I Build" cards: force a single row of 3 instead of wrapping
+   (the theme's default 250px-per-column minimum doesn't fit this section's
+   narrow text-column width). */
+#codes .hb-cards {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* Stack each card's icon above its title (instead of side-by-side) and
+   center both — gives long titles like "planetMagFields" the card's full
+   width to breathe instead of squeezing next to the icon. */
+#codes .hb-card-title {
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  gap: 0.5rem;
+}
+
+#codes .hb-card-subtitle {
+  text-align: center;
+}

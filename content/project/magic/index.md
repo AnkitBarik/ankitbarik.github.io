@@ -10,9 +10,15 @@ links:
   - type: github
     url: 'https://github.com/magic-sph/magic'
     label: Code
+  - type: custom
+    url: 'https://ui.adsabs.harvard.edu/public-libraries/LVt1vdaKQsC5P09In2iloA'
+    label: Publication Metrics (ADS)
+    icon: chart-bar
 ---
 
 MagIC is a numerical code that can simulate fluid dynamics in spherical geometry. It solves for the Navier-Stokes equation including Coriolis force, optionally coupled with an induction equation for Magneto-Hydro Dynamics (MHD), a temperature (or entropy) equation and an equation for chemical composition under both the anelastic and the Boussinesq approximations.
+
+MagIC has been used in **174 publications** (170 refereed) since 2002, according to [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/LVt1vdaKQsC5P09In2iloA).
 
 MagIC is pseudo-spectral and makes use of spherical harmonics {{<math>}}$Y_\ell^m(\theta,\phi)${{</math>}} in the angular directions. In the radial direction, it offers two options : one can either make use of Chebyshev polynomials or finite differences.
 
