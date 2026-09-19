@@ -16,6 +16,7 @@ sections:
         folders:
           - project
     design:
+      view: article-grid
       columns: 3
       fallback_icon: beaker
 ---
