@@ -3,6 +3,11 @@ div.mb-12:has(.bio-text) > .flex.items-center.gap-4.mb-8 {
   display: none;
 }
 
+/* Hide the "Research Interests" heading above the interest tag pills. */
+div:has(> .flex.flex-wrap.gap-3) > .flex.items-center.gap-4.mb-8 {
+  display: none;
+}
+
 /* Technical Skills: keep normal capitalization instead of the theme's forced uppercase. */
 .skills-name {
   text-transform: none;

@@ -3,10 +3,11 @@ title: ''
 date: 2022-10-24
 type: landing
 
-# Hide the social-media share button row at the bottom of every page site-wide.
+# Hide the social-media share row and "N min read" badge on every page site-wide.
 cascade:
   - params:
       share: false
+      reading_time: false
 
 sections:
   - block: resume-biography-3
@@ -14,9 +15,6 @@ sections:
     content:
       username: me
       text: ''
-      button:
-        text: Download CV
-        url: uploads/cv.pdf
       headings:
         about: ''
         interests: Research Interests
@@ -29,6 +27,19 @@ sections:
       avatar:
         size: medium
         shape: circle
+
+  - block: markdown
+    id: codes
+    content:
+      title: Codes I Build
+      text: |-
+        {{< cards cols="3" >}}
+        {{< card url="/project/magic/" title="MagIC" subtitle="3D MHD code for planetary & stellar interiors" icon="bolt" >}}
+        {{< card url="/project/kore/" title="Kore" subtitle="Spectral MHD eigenvalue solver" icon="code-bracket" >}}
+        {{< card url="/project/planetmagfields/" title="planetMagFields" subtitle="Visualize planetary magnetic field data" icon="globe-alt" >}}
+        {{< /cards >}}
+    design:
+      columns: '1'
 
   - block: resume-skills
     id: skills
@@ -88,6 +99,7 @@ sections:
       view: card
       columns: 3
       show_date: false
+      show_read_time: false
 
   - block: contact-info
     id: contact
