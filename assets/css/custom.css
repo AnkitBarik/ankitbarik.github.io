@@ -34,3 +34,11 @@ div:has(> .flex.flex-wrap.gap-3) > .flex.items-center.gap-4.mb-8 {
 #codes .hb-card-subtitle {
   text-align: center;
 }
+
+/* Technical Skills: the block's own "columns: 3" design option already
+   puts the 3 categories in a single row; just give them more room and
+   spacing than the theme's default narrow text column allows. */
+#skills .grid.grid-cols-1 {
+  max-width: 64rem;
+  gap: 3rem;
+}

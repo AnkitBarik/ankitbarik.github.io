@@ -46,6 +46,8 @@ sections:
     content:
       title: Technical Skills
       username: me
+    design:
+      columns: 3
 
   - block: markdown
     id: featured
@@ -96,7 +98,7 @@ sections:
         folders:
           - teaching
     design:
-      view: card
+      view: article-grid
       columns: 3
       show_date: false
       show_read_time: false
