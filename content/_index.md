@@ -95,6 +95,23 @@ sections:
       show_date: false
       show_read_time: false
 
+  - block: collection
+    id: outreach
+    content:
+      title: Outreach
+      count: 3
+      filters:
+        folders:
+          - outreach
+      archive:
+        link: /outreach/
+        text: See all outreach
+    design:
+      view: article-grid
+      columns: 3
+      show_date: false
+      show_read_time: false
+
   - block: contact-info
     id: contact
     content:

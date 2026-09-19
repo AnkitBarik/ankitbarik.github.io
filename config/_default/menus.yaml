@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Projects
-    url: /project/
+    url: '/#projects'
     weight: 20
   - name: Publications
     url: '/#publications'
@@ -17,7 +17,7 @@ main:
     url: '/#teaching'
     weight: 40
   - name: Outreach
-    url: /outreach/
+    url: '/#outreach'
     weight: 50
   - name: Contact
     url: '/#contact'

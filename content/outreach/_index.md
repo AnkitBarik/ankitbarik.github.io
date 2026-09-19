@@ -11,7 +11,7 @@ sections:
         folders:
           - outreach
     design:
-      view: card
+      view: article-grid
       columns: 3
       show_date: false
       show_read_time: false

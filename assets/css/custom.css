@@ -1,3 +1,8 @@
+/* Smooth-scroll for in-page anchor links (nav menu items like #publications, #contact). */
+html {
+  scroll-behavior: smooth;
+}
+
 /* Hide the "Professional Summary" heading above the bio text on the homepage. */
 div.mb-12:has(.bio-text) > .flex.items-center.gap-4.mb-8 {
   display: none;
