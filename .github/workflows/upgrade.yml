@@ -73,6 +73,25 @@ jobs:
           echo "Running upgrade with flags: $FLAGS"
           pnpm dlx hugoblox@latest upgrade $FLAGS
 
+      - name: Sync pinned Hugo version if the theme was upgraded
+        run: |
+          if git diff --quiet go.mod; then
+            echo "No module changes detected; leaving hugoblox.yaml's Hugo version pin untouched."
+          else
+            INSTALLED_VERSION=$(hugo version | grep -oE 'v[0-9]+\.[0-9]+\.[0-9]+' | head -1 | tr -d 'v')
+            echo "Modules upgraded; syncing hugoblox.yaml's pinned Hugo version to $INSTALLED_VERSION"
+
+            # Install pinned yq for robust YAML editing (matches build.yml/deploy.yml convention)
+            YQ_VERSION="v4.44.1"
+            wget -q --tries=3 --waitretry=1 -O /tmp/yq \
+              "https://github.com/mikefarah/yq/releases/download/${YQ_VERSION}/yq_linux_amd64"
+            sudo mv /tmp/yq /usr/local/bin/yq
+            sudo chmod +x /usr/local/bin/yq
+
+            yq -i ".build.hugo_version = \"${INSTALLED_VERSION}\"" hugoblox.yaml
+            echo "Updated hugoblox.yaml:"
+            cat hugoblox.yaml
+          fi
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v8
@@ -86,6 +105,7 @@ jobs:
             **Changes:**
             - Updated Hugo Modules (go.mod/go.sum)
             - Applied automatic migrations (if any)
+            - Synced the pinned Hugo version in `hugoblox.yaml` to the version this run tested against
             
             **Verification:**
             - [ ] Check the Deploy Preview to ensure everything looks correct.
