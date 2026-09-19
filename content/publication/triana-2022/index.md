@@ -32,7 +32,7 @@ image:
 projects: [inertial-modes]
 links:
   - type: project
-    url: '/project/inertial-modes/'
+    url: '/research/inertial-modes/'
     label: Related Project
 publishDate: '2024-06-03T00:05:41.402385Z'
 publication_types: [article-journal]

@@ -24,7 +24,7 @@ MESSENGER observations of Mercury's magnetotail provided details of the planet's
 
 ![Simulated field-aligned currents and magnetotail of Mercury](mercury_magsphere.png)
 
-Along with [Regupathi Angappan](https://reguang.wixsite.com/regupathiangappan), I adapted the MHD code [Kaiju](/project/software/#kaiju) (formerly GAMERA) to map the currents through Mercury's magnetosphere and solve for the FACs directly, aiming to better correct the MESSENGER data.
+Along with [Regupathi Angappan](https://reguang.wixsite.com/regupathiangappan), I adapted the MHD code [Kaiju](/research/software/#kaiju) (formerly GAMERA) to map the currents through Mercury's magnetosphere and solve for the FACs directly, aiming to better correct the MESSENGER data.
 
 ## Stellar angular momentum transport
 

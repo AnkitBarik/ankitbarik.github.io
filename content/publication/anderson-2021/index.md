@@ -37,7 +37,7 @@ image:
 projects: [magnetic-data]
 links:
   - type: project
-    url: '/project/magnetic-data/'
+    url: '/research/magnetic-data/'
     label: Related Project
 publishDate: '2024-06-03T00:05:39.056454Z'
 publication_types: [article-journal]

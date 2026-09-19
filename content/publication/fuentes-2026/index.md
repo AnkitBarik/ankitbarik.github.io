@@ -16,7 +16,7 @@ hugoblox:
 projects: [inertial-modes]
 links:
   - type: project
-    url: '/project/inertial-modes/'
+    url: '/research/inertial-modes/'
     label: Related Project
 abstract: Thermal convection in rotating stars and planets drives anisotropic turbulence
   and differential rotation, both capable of feeding energy into global oscillations.

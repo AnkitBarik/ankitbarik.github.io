@@ -43,7 +43,7 @@ I am one of the developers of Kore, so feel free to reach out if you plan to use
 Kaiju (formerly GAMERA) is written in modern Fortran and provides a flexible, portable, and exascale-capable MHD code. It uses the finite volume method to simulate magnetospheric dynamics.
 {style="text-align: justify;"}
 
-I was involved in adapting it to [Mercury](/project/unpublished/#external-fields-mercury) in order to accurately compute the field-aligned currents (FACs) and better correct the MESSENGER data.
+I was involved in adapting it to [Mercury](/research/unpublished/#external-fields-mercury) in order to accurately compute the field-aligned currents (FACs) and better correct the MESSENGER data.
 {style="text-align: justify;"}
 
 **Links:** [GitHub](https://github.com/JHUAPL/kaiju)

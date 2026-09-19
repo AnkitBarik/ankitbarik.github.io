@@ -37,7 +37,7 @@ image:
 projects: [dynamos]
 links:
   - type: project
-    url: '/project/dynamos/'
+    url: '/research/dynamos/'
     label: Related Project
 publishDate: '2024-06-03T00:05:41.732325Z'
 publication_types: [article-journal]

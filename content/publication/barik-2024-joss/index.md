@@ -30,7 +30,7 @@ image:
 projects: [software]
 links:
   - type: project
-    url: '/project/software/#planetmagfields'
+    url: '/research/software/#planetmagfields'
     label: Related Project
 publishDate: '2024-06-03T00:05:39.363120Z'
 publication_types: [article-journal]

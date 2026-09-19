@@ -20,7 +20,7 @@ links:
     label: Article Metrics
     icon: chart-bar
   - type: project
-    url: '/project/turbulence/'
+    url: '/research/turbulence/'
     label: Related Project
 image:
   caption: 'Fig. 1 from Ojha, Barik & Buffo (2026), *Nature Astronomy*: surface features on Europa (a), the ice-shell dike model (b, c), and estimated feature volumes by type (d).'

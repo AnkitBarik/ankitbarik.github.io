@@ -9,12 +9,12 @@ cascade:
 
 sections:
   - block: portfolio
-    id: projects
+    id: research
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
-          - project
+          - research
     design:
       view: article-grid
       columns: 3

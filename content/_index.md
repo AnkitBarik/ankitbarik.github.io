@@ -35,7 +35,7 @@ sections:
       text: |-
         {{< youtube 7S_VqFJep_0 >}}
 
-        Our group's outreach video on the magnetic fields of the planets in our solar system, paired with **[planetMagFields](https://planetmagfields.streamlit.app)** — an interactive web app for exploring planetary magnetic field data, built on the open-source [planetMagFields](/project/software/#planetmagfields) Python package.
+        Our group's outreach video on the magnetic fields of the planets in our solar system, paired with **[planetMagFields](https://planetmagfields.streamlit.app)** — an interactive web app for exploring planetary magnetic field data, built on the open-source [planetMagFields](/research/software/#planetmagfields) Python package.
 
         {{< button url="https://planetmagfields.streamlit.app" text="Try the app" icon="rocket-launch" style="primary" size="md" new_tab="true" />}}
     design:
@@ -47,25 +47,25 @@ sections:
       title: Codes I Build
       text: |-
         {{< cards cols="3" >}}
-        {{< card url="/project/software/#magic" title="MagIC" subtitle="3D MHD code — used in 170+ papers" icon="bolt" >}}
-        {{< card url="/project/software/#kore" title="Kore" subtitle="Spectral MHD eigenvalue solver" icon="code-bracket" >}}
-        {{< card url="/project/software/#planetmagfields" title="planetMagFields" subtitle="Visualize planetary magnetic field data" icon="globe-alt" >}}
+        {{< card url="/research/software/#magic" title="MagIC" subtitle="3D MHD code — used in 170+ papers" icon="bolt" >}}
+        {{< card url="/research/software/#kore" title="Kore" subtitle="Spectral MHD eigenvalue solver" icon="code-bracket" >}}
+        {{< card url="/research/software/#planetmagfields" title="planetMagFields" subtitle="Visualize planetary magnetic field data" icon="globe-alt" >}}
         {{< /cards >}}
     design:
       columns: '1'
 
   - block: portfolio
-    id: projects
+    id: research
     content:
-      title: Projects
+      title: Research
       count: 6
       sort_by: Weight
       sort_ascending: true
       filters:
         folders:
-          - project
+          - research
       archive:
-        link: /project/
+        link: /research/
         text: See all projects
     design:
       columns: 3

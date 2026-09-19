@@ -37,7 +37,7 @@ hugoblox:
 projects: [turbulence]
 links:
   - type: project
-    url: '/project/turbulence/'
+    url: '/research/turbulence/'
     label: Related Project
 ---
 
