@@ -23,8 +23,6 @@ hugoblox:
     # Site meta description for search engines and social sharing
     description: "Ankit Barik, Researcher at Johns Hopkins University, working on dynamos, planetary science"
     # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "MHDWizard" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -34,7 +32,7 @@ hugoblox:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: dark
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "solar"
+    pack: "minimal"
     # Optional: Override theme pack colors
     colors:
       primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
