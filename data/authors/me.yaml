@@ -45,8 +45,7 @@ interests:
 skills:
   - name: Programming & HPC
     items:
-      - label: Python
-      - label: Fortran
+      - label: C, Fortran, Python
       - label: MPI / parallel & distributed computing
       - label: Bash / HPC cluster workflows
   - name: Scientific Software
