@@ -13,11 +13,15 @@ publication:
 hugoblox:
   ids:
     doi: 10.1038/s41550-026-02918-2
+projects: [turbulence]
 links:
   - type: custom
     url: 'https://www.nature.com/articles/s41550-026-02918-2/metrics'
     label: Article Metrics
     icon: chart-bar
+  - type: project
+    url: '/project/turbulence/'
+    label: Related Project
 image:
   caption: 'Fig. 1 from Ojha, Barik & Buffo (2026), *Nature Astronomy*: surface features on Europa (a), the ice-shell dike model (b, c), and estimated feature volumes by type (d).'
   focal_point: ''

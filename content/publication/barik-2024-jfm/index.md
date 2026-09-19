@@ -34,5 +34,10 @@ publication:
 hugoblox:
   ids:
     doi: 10.1017/jfm.2024.650
+projects: [turbulence]
+links:
+  - type: project
+    url: '/project/turbulence/'
+    label: Related Project
 ---
 

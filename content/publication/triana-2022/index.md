@@ -29,10 +29,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [sun]
+projects: [inertial-modes]
 links:
   - type: project
-    url: '/project/sun/'
+    url: '/project/inertial-modes/'
     label: Related Project
 publishDate: '2024-06-03T00:05:41.402385Z'
 publication_types: [article-journal]

@@ -34,10 +34,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [earth]
+projects: [magnetic-data]
 links:
   - type: project
-    url: '/project/earth/'
+    url: '/project/magnetic-data/'
     label: Related Project
 publishDate: '2024-06-03T00:05:39.056454Z'
 publication_types: [article-journal]
