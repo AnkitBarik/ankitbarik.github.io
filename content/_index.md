@@ -29,27 +29,6 @@ sections:
         shape: circle
 
   - block: markdown
-    id: codes
-    content:
-      title: Codes I Build
-      text: |-
-        {{< cards cols="3" >}}
-        {{< card url="/project/magic/" title="MagIC" subtitle="3D MHD code — used in 170+ papers" icon="bolt" >}}
-        {{< card url="/project/kore/" title="Kore" subtitle="Spectral MHD eigenvalue solver" icon="code-bracket" >}}
-        {{< card url="/project/planetmagfields/" title="planetMagFields" subtitle="Visualize planetary magnetic field data" icon="globe-alt" >}}
-        {{< /cards >}}
-    design:
-      columns: '1'
-
-  - block: resume-skills
-    id: skills
-    content:
-      title: Technical Skills
-      username: me
-    design:
-      columns: 3
-
-  - block: markdown
     id: featured
     content:
       title: Featured
@@ -62,16 +41,18 @@ sections:
     design:
       columns: '1'
 
-  - block: collection
-    id: publications
+  - block: markdown
+    id: codes
     content:
-      title: Publications
-      count: 4
-      filters:
-        folders:
-          - publication
+      title: Codes I Build
+      text: |-
+        {{< cards cols="3" >}}
+        {{< card url="/project/magic/" title="MagIC" subtitle="3D MHD code — used in 170+ papers" icon="bolt" >}}
+        {{< card url="/project/kore/" title="Kore" subtitle="Spectral MHD eigenvalue solver" icon="code-bracket" >}}
+        {{< card url="/project/planetmagfields/" title="planetMagFields" subtitle="Visualize planetary magnetic field data" icon="globe-alt" >}}
+        {{< /cards >}}
     design:
-      view: citation
+      columns: '1'
 
   - block: portfolio
     id: projects
@@ -89,6 +70,17 @@ sections:
     design:
       columns: 3
       fallback_icon: beaker
+
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      count: 4
+      filters:
+        folders:
+          - publication
+    design:
+      view: citation
 
   - block: collection
     id: teaching
