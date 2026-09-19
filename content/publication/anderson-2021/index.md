@@ -35,8 +35,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [earth]
+links:
+  - type: project
+    url: '/project/earth/'
+    label: Related Project
 publishDate: '2024-06-03T00:05:39.056454Z'
-publication_types:
+publication_types: [article-journal]
 
 abstract: Characterization of Earth's magnetic field is key to understanding dynamics
   of the core. We assess whether Iridium Communications magnetometer data can be used
@@ -59,6 +63,9 @@ abstract: Characterization of Earth's magnetic field is key to understanding dyn
   map using a single day of data. The results and CHAOS 7.4 generally agree, but systematic
   differences larger than the statistical uncertainties are present that warrant further
   exploration.
-publication: '*Geochemistry, Geophysics, Geosystems*'
-doi: 10.1029/2020GC009515
+publication:
+  name: 'Geochemistry, Geophysics, Geosystems'
+hugoblox:
+  ids:
+    doi: 10.1029/2020GC009515
 ---

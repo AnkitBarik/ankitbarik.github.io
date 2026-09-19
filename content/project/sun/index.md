@@ -1,24 +1,11 @@
 ---
 title: Sun
+weight: 4
 summary: Explaining observed solar inertial modes through eigenmode computation
+date: '2024-01-01'
+show_date: false
 tags:
   - Waves and modes
-date: '2024Z'
-show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Solar inertial mode with {{< math >}}$m=4${{< /math >}}
-  focal_point: Smart
-  preview_only: true
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
 ---
 ![Plot of observed and computed frequencies](paper_plot.png)
 

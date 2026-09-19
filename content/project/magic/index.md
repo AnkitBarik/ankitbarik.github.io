@@ -1,31 +1,15 @@
 ---
 title: MagIC
+weight: 1
 summary: High-performance code that solves the magneto-hydrodynamics equations in rotating spherical shells
+show_date: false
 tags:
   - Dynamos
-  - software
-date:
-show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption:
-  focal_point: Smart
-  preview_only: false
-
-url_code: 'https://github.com/magic-sph/magic'
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+  - Software
+links:
+  - type: github
+    url: 'https://github.com/magic-sph/magic'
+    label: Code
 ---
 
 MagIC is a numerical code that can simulate fluid dynamics in spherical geometry. It solves for the Navier-Stokes equation including Coriolis force, optionally coupled with an induction equation for Magneto-Hydro Dynamics (MHD), a temperature (or entropy) equation and an equation for chemical composition under both the anelastic and the Boussinesq approximations.

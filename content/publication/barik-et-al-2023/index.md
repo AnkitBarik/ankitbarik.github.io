@@ -31,8 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [convection]
+links:
+  - type: project
+    url: '/project/convection/'
+    label: Related Project
 publishDate: '2024-06-03T00:05:40.037240Z'
-publication_types:
+publication_types: [article-journal]
 
 abstract: Convection in rotating spherical layers of fluid is ubiquitous in spherical
   astrophysical objects like planets and stars. A complete understanding of the magnetohydrodynamics
@@ -54,6 +58,9 @@ abstract: Convection in rotating spherical layers of fluid is ubiquitous in sphe
   fluid dynamics simulations are performed, yet where asymptotic theory is only moderately
   accurate. We further verify asymptotic predictions and determine best-fit asymptotic
   model coefficients.
-publication: '*Earth and Space Science*'
-doi: 10.1029/2022EA002606
+publication:
+  name: 'Earth and Space Science'
+hugoblox:
+  ids:
+    doi: 10.1029/2022EA002606
 ---

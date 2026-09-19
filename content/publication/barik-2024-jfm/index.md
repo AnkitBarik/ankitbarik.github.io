@@ -8,6 +8,7 @@ authors:
 - S. A. Triana
 - M. Hoff
 - J. Wicht
+publication_types: [article-journal]
 abstract: The spherical Couette system consists of two differentially rotating concentric
   spheres with the space in between filled with fluid. We study a regime where the
   outer sphere is rotating rapidly enough so that the Coriolis force is important
@@ -28,7 +29,10 @@ abstract: The spherical Couette system consists of two differentially rotating c
   law of the variation of critical differential rotation for transition to turbulence
   with rotation rate observed in the experiments.
 featured: true
-publication: '*Journal of Fluid Mechanics*'
-doi: 10.1017/jfm.2024.650
+publication:
+  name: 'Journal of Fluid Mechanics'
+hugoblox:
+  ids:
+    doi: 10.1017/jfm.2024.650
 ---
 

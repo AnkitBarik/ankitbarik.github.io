@@ -35,8 +35,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [mars]
+links:
+  - type: project
+    url: '/project/mars/'
+    label: Related Project
 publishDate: '2024-06-03T00:05:41.732325Z'
-publication_types:
+publication_types: [article-journal]
 
 abstract: Magnetic field observations from the MGS, MAVEN, and InSight missions reveal
   that a dynamo was active in Mars's early history. One unique feature of Mars's magnetic
@@ -56,6 +60,9 @@ abstract: Magnetic field observations from the MGS, MAVEN, and InSight missions 
   and transition from a nonreversing, hemispheric magnetic field to a multipolar field
   at higher hemispheric heat flux perturbations, while the transition happens at a
   much lower heat flux perturbation for magnetic fields powered by internal heating.
-publication: '*The Planetary Science Journal*'
-doi: 10.3847/PSJ/acae93
+publication:
+  name: 'The Planetary Science Journal'
+hugoblox:
+  ids:
+    doi: 10.3847/PSJ/acae93
 ---

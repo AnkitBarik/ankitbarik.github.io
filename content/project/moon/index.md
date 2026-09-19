@@ -1,30 +1,11 @@
 ---
 title: Moon
+weight: 12
 summary: Explaining ancient lunar paleomagnetic records using a mix of convection and precession
+date: '2017-01-01'
+show_date: false
 tags:
   - Dynamos
-date: '2017Z'
-show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption:
-  focal_point: Smart
-  preview_only: false
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 ---
 Paleomagnetic analysis of rock samples returned from the Apollo missions have revealed that the Moon used to have a very strong magnetic field, higher than that of present day Earth 100{{< math >}}$\mu${{< /math >}}T, which then later dropped to values of around 10{{< math >}}$\mu${{< /math >}}T and eventually, at present day the moon does not generate any magnetic field.
 

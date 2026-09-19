@@ -10,8 +10,7 @@ authors:
 - A. Mittelholz
 - A.-C. Plesa
 - C.-L. Johnson
-publication_types:
-- '2'
+publication_types: [article-journal]
 abstract: Seismic measurements from the NASA Mars InSight mission revealed that Mars'
   core has a relatively low density, implying a larger fraction of lighter elements
   than previously thought, which further leads to a low melting temperature. Thus,
@@ -25,7 +24,10 @@ abstract: Seismic measurements from the NASA Mars InSight mission revealed that 
   Mars' crustal magnetic field dichotomy than that in a spherical shell surrounding
   a solid inner core.
 featured: false
-publication: '*Geophysical Research Letters*'
-doi: 10.1029/2024GL113926
+publication:
+  name: 'Geophysical Research Letters'
+hugoblox:
+  ids:
+    doi: 10.1029/2024GL113926
 ---
 

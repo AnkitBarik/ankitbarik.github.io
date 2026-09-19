@@ -1,0 +1,68 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Ankit Barik
+  given: Ankit
+  family: Barik
+status:
+  icon: "☕️"
+role: Assistant Research Scientist
+
+bio: |
+  **I study the fluid dynamics and magnetic fields of planetary and stellar interiors using high-performance MHD simulations, and work as a research software engineer building physics-based simulation pipelines.**
+
+  I am an Assistant Research Scientist at Johns Hopkins University. My research involves the study of fluid dynamics of planetary and stellar interiors and their magnetic fields through the use of fluid dynamics and magnetohydrodynamic (MHD) simulations on big supercomputers. I am one of the lead developers of the 3D MHD code [MagIC](https://magic-sph.github.io/), the linear solver [Kore](https://github.com/repepo/kore) and have also contributed to the development of the magnetospheric code [GAMERA](https://cgs.jhuapl.edu/Models/gamera.php). I am part of the Magnetism & Planetary Interiors (MagPI) group led by [Sabine Stanley](https://sabinestanley.com/). I also take a keen interest in research on fundamental fluid dynamics, particularly those applicable to rotating spheres and spherical shells.
+
+  In addition to my scientific research, I also work as a research software engineer as a part of the [NASA Space Technology Research Institute (STRI) IMQCAM](https://techport.nasa.gov/projects/156318) headed by Carnegie Mellon University and Johns Hopkins University.
+
+  In my spare time, I like [playing music and writing songs](https://theicymoons.bandcamp.com/track/cocoon). Martial arts is another passion of mine and I hold a black belt in Shotokan karate.
+
+affiliations:
+  - name: Johns Hopkins University
+    url: https://www.jhu.edu/
+
+links:
+  - icon: at-symbol
+    url: mailto:abarik@jhu.edu
+    label: Email
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/astrodoc.bsky.social
+    label: BlueSky
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-5747-669X
+    label: ORCID
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=mgCeHHMAAAAJ&hl=en
+    label: Google Scholar
+  - icon: brands/github
+    url: https://github.com/AnkitBarik
+    label: GitHub
+  - icon: academicons/cv
+    url: uploads/cv.pdf
+    label: CV
+
+interests:
+  - Planetary and Stellar Interiors
+  - MHD and Dynamo theory
+  - Fluid dynamics
+  - High performance computing
+
+skills:
+  - name: Programming & HPC
+    items:
+      - label: Python
+      - label: Fortran
+      - label: MPI / parallel & distributed computing
+      - label: Bash / HPC cluster workflows
+  - name: Scientific Software
+    items:
+      - label: 'MagIC (3D pseudo-spectral MHD)'
+      - label: 'Kore (spectral MHD eigenvalue solver)'
+      - label: 'GAMERA/Kaiju (finite-volume MHD)'
+      - label: Spectral, finite-volume & finite-element methods
+  - name: Research Engineering & Tools
+    items:
+      - label: Git / GitHub
+      - label: Dagster & Globus Compute (workflow pipelines)
+      - label: ParaView / VisIt (3D visualization)

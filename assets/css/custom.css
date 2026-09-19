@@ -1,0 +1,10 @@
+/* Hide the "Professional Summary" heading above the bio text on the homepage. */
+div.mb-12:has(.bio-text) > .flex.items-center.gap-4.mb-8 {
+  display: none;
+}
+
+/* Technical Skills: keep normal capitalization instead of the theme's forced uppercase. */
+.skills-name {
+  text-transform: none;
+  letter-spacing: normal;
+}

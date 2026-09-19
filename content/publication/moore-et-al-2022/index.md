@@ -36,8 +36,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [gas-giants]
+links:
+  - type: project
+    url: '/project/gas-giants/'
+    label: Related Project
 publishDate: '2024-06-03T00:05:40.752141Z'
-publication_types:
+publication_types: [article-journal]
 
 abstract: Understanding Jupiter's present-day interior structure and dynamics is key
   to constraining planetary accretion models. In particular, the extent of stable
@@ -61,6 +65,9 @@ abstract: Understanding Jupiter's present-day interior structure and dynamics is
   Jupiter's magnetic field and winds. Thus if a dilute core is present, alternative
   modalities such as a fully convective dilute core, a complex multilayered interior
   structure, or double diffusive convection may be required.
-publication: '*Journal of Geophysical Research: Planets*'
-doi: 10.1029/2022JE007479
+publication:
+  name: 'Journal of Geophysical Research: Planets'
+hugoblox:
+  ids:
+    doi: 10.1029/2022JE007479
 ---

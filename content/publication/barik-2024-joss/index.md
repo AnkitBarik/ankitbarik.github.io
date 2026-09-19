@@ -28,8 +28,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [planetmagfields]
+links:
+  - type: project
+    url: '/project/planetmagfields/'
+    label: Related Project
 publishDate: '2024-06-03T00:05:39.363120Z'
-publication_types:
+publication_types: [article-journal]
 
 abstract: Long term observations and space missions have generated a wealth of data
   on the magnetic fields of the Earth and other solar system planets. `planetMagfields`
@@ -43,6 +47,9 @@ abstract: Long term observations and space missions have generated a wealth of d
   the field in 3D using Paraview, VisIt or similar rendering software. Lastly, the
   `planetMagfields` repository also provides a Jupyter notebook for easy interactive
   visualizations.
-publication: '*Journal of Open Source Software*'
-doi: 10.21105/joss.06677
+publication:
+  name: 'Journal of Open Source Software'
+hugoblox:
+  ids:
+    doi: 10.21105/joss.06677
 ---

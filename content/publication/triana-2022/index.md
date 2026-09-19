@@ -30,8 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [sun]
+links:
+  - type: project
+    url: '/project/sun/'
+    label: Related Project
 publishDate: '2024-06-03T00:05:41.402385Z'
-publication_types:
+publication_types: [article-journal]
 
 abstract: The observation of global acoustic waves (p modes) in the Sun has been key
   to unveiling its internal structure and dynamics. A different kind of wave, known
@@ -45,6 +49,9 @@ abstract: The observation of global acoustic waves (p modes) in the Sun has been
   ones deep in the convective zone but still small compared to the horizontal velocities
   toward the surface. We also suggest that the signature of tesseral-like Rossby modes
   might be present in recent observational data.
-publication: '*The Astrophysical Journal Letters*'
-doi: 10.3847/2041-8213/ac7dac
+publication:
+  name: 'The Astrophysical Journal Letters'
+hugoblox:
+  ids:
+    doi: 10.3847/2041-8213/ac7dac
 ---

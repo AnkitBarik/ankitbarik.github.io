@@ -33,8 +33,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [couette]
+links:
+  - type: project
+    url: '/project/couette/'
+    label: Related Project
 publishDate: '2024-06-03T00:05:40.399825Z'
-publication_types:
+publication_types: [article-journal]
 
 abstract: Understanding fluid flows in planetary cores and subsurface oceans, as well
   as their signatures in available observational data (gravity, magnetism, rotation,
@@ -47,6 +51,9 @@ abstract: Understanding fluid flows in planetary cores and subsurface oceans, as
   studies, have been key for a better understanding of planetary interior flows driven
   by some type of mechanical forcing. We successively address the dynamics of flows
   driven by precession, by libration, by differential rotation, and by boundary topography.
-publication: '*Surveys in Geophysics*'
-doi: 10.1007/s10712-021-09681-1
+publication:
+  name: 'Surveys in Geophysics'
+hugoblox:
+  ids:
+    doi: 10.1007/s10712-021-09681-1
 ---

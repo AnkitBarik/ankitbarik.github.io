@@ -1,31 +1,12 @@
 ---
 title: Spherical Couette flow
+weight: 3
 summary: Inertial modes and turbulence in differentially rotating spheres
+date: '2017-01-01'
+show_date: false
 tags:
   - Fluid dynamics
   - Waves and modes
-date: '2017Z'
-show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption:
-  focal_point: Smart
-  preview_only: true
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 ---
 <img src="vpInerMod.png">
 

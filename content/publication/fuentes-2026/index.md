@@ -7,10 +7,12 @@ authors:
 - Jim Fuller
 date: '2026-02-01'
 publishDate: '2026-04-07T16:51:26.430154Z'
-publication_types:
-- article-journal
-publication: '*The Astrophysical Journal*'
-doi: 10.3847/1538-4357/ae3538
+publication_types: [article-journal]
+publication:
+  name: 'The Astrophysical Journal'
+hugoblox:
+  ids:
+    doi: 10.3847/1538-4357/ae3538
 abstract: Thermal convection in rotating stars and planets drives anisotropic turbulence
   and differential rotation, both capable of feeding energy into global oscillations.
   Using 3D simulations of rotating convection in spherical shells, we show that inertial
@@ -30,4 +32,4 @@ abstract: Thermal convection in rotating stars and planets drives anisotropic tu
   low frequencies will make them difficult to detect.
 ---
 
-{{< vimeo 1032837882>}}
+[Watch the supplementary simulation video](https://vimeo.com/1032837882)

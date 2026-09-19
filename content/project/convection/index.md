@@ -1,31 +1,15 @@
 ---
 title: Onset of convection in rotating spherical shells
+weight: 10
 summary: We considered the effect of aspect ratio {{< math >}}$\chi = r_i/r_o${{< /math >}}
+show_date: false
 tags:
   - Fluid dynamics
   - Waves and modes
-date:
-show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption:
-  focal_point: Smart
-  preview_only: true
-
-url_code: 'https://github.com/AnkitBarik/convection_onset_radratio'
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+links:
+  - type: github
+    url: 'https://github.com/AnkitBarik/convection_onset_radratio'
+    label: Code
 ---
 <img src="sol_quad.png" width=80%>
 

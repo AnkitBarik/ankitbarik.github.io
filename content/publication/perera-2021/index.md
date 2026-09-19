@@ -35,7 +35,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2024-06-03T00:24:25.004569Z'
-publication_types:
+publication_types: [article-journal]
 
 abstract: The future viability of the geosciences is challenged, since as a community
   we continue to lack demographic diversity representative of the wider population.
@@ -52,6 +52,9 @@ abstract: The future viability of the geosciences is challenged, since as a comm
   there is sufficient evidence to also begin implementing interventions in classrooms,
   laboratories, and in the field. We believe strategies based on intergroup emotions
   will make significant improvements in diversity and inclusion within the geosciences.
-publication: '*Journal of Geoscience Education*'
-doi: 10.1080/10899995.2021.1881863
+publication:
+  name: 'Journal of Geoscience Education'
+hugoblox:
+  ids:
+    doi: 10.1080/10899995.2021.1881863
 ---

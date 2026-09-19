@@ -1,22 +1,21 @@
 ---
 title: planetMagFields
+weight: 8
 summary: A Python package for analyzing and plotting planetary magnetic field data
+date: '2024-01-01'
+show_date: false
 tags:
   - Software
-date: '2024Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Magnetic field of Neptune
-  focal_point: Smart
-
-url_code: 'https://github.com/AnkitBarik/planetMagFields'
-url_pdf: 'https://doi.org/10.21105/joss.06677'
-url_slides: ''
-url_video: ''
-
+links:
+  - type: live
+    url: 'https://planetmagfields.streamlit.app'
+    label: Try the App
+  - type: github
+    url: 'https://github.com/AnkitBarik/planetMagFields'
+    label: Code
+  - type: pdf
+    url: 'https://doi.org/10.21105/joss.06677'
+    label: Read Paper
 ---
 
 `planetMagFields` is a package that provides an easy interface to plot and analyze planetary magnetic field data. planetMagFields is free and open source and is available at https://github.com/AnkitBarik/planetMagFields .

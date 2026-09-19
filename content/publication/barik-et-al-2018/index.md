@@ -30,8 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [couette]
+links:
+  - type: project
+    url: '/project/couette/'
+    label: Related Project
 publishDate: '2024-06-03T00:05:39.660332Z'
-publication_types:
+publication_types: [article-journal]
 
 abstract: The spherical Couette system, consisting of a viscous fluid between two
   differentially rotating concentric spheres, is studied using numerical simulations
@@ -50,6 +54,9 @@ abstract: The spherical Couette system, consisting of a viscous fluid between tw
   sphere and a spherical shell. We investigate triadic resonances of pairs of inertial
   modes with the fundamental instability. We explore possible onset mechanisms through
   numerical experiments.
-publication: '*Journal of Fluid Mechanics*'
-doi: 10.1017/jfm.2018.138
+publication:
+  name: 'Journal of Fluid Mechanics'
+hugoblox:
+  ids:
+    doi: 10.1017/jfm.2018.138
 ---
