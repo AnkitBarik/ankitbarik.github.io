@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Chi Yan
-- Ankit Barik
+- me
 - Sabine Stanley
 - Jason S.-Y. Leung
 - Anna Mittelholz

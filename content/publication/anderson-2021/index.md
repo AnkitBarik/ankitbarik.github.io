@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Brian J. Anderson
 - Regupathi Angappan
-- Ankit Barik
+- me
 - Sarah K. Vines
 - Sabine Stanley
 - Pietro N. Bernasconi

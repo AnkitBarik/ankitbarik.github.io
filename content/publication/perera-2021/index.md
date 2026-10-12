@@ -11,7 +11,7 @@ authors:
 - Sabine Stanley
 - Regupathi Angappan
 - Shannon MacKenzie
-- Ankit Barik
+- me
 - Sanlyn Buxner
 tags: []
 categories: []

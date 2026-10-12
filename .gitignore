@@ -68,3 +68,6 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+# Windows download metadata
+*Zone.Identifier

@@ -5,7 +5,7 @@ draft: false
 publishDate: '2025-03-20T02:51:19.100526Z'
 authors:
 - C. Yan
-- A. Barik
+- me
 - S. Stanley
 - A. Mittelholz
 - A.-C. Plesa

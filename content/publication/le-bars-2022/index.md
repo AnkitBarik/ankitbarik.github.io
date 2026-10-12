@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Michael Le Bars
-- Ankit Barik
+- me
 - Fabian Burmann
 - Daniel P. Lathrop
 - Jerome Noir

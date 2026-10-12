@@ -3,7 +3,7 @@ title: Excitation of Inertial Modes in 3D Simulations of Rotating Convection in 
   and Stars
 authors:
 - J. R. Fuentes
-- Ankit Barik
+- me
 - Jim Fuller
 date: '2026-02-01'
 publishDate: '2026-04-07T16:51:26.430154Z'

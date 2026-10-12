@@ -5,7 +5,7 @@ title: Triadic Resonances in the Wide-Gap Spherical Couette System
 subtitle: ''
 summary: ''
 authors:
-- A. Barik
+- me
 - S. A. Triana
 - M. Hoff
 - J. Wicht

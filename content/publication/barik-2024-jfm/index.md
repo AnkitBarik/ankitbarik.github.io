@@ -4,7 +4,7 @@ date: '2024-12-01'
 draft: false
 publishDate: '2025-03-20T02:51:20.100490Z'
 authors:
-- A. Barik
+- me
 - S. A. Triana
 - M. Hoff
 - J. Wicht

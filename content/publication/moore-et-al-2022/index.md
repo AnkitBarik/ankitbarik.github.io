@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - K. M. Moore
-- A. Barik
+- me
 - S. Stanley
 - D. J. Stevenson
 - N. Nettelmann

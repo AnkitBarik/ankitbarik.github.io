@@ -5,7 +5,7 @@ title: 'planetMagFields: A Python Package for Analyzing And plotting Planetary M
 subtitle: ''
 summary: ''
 authors:
-- Ankit Barik
+- me
 - Regupathi Angappan
 tags: []
 categories: []

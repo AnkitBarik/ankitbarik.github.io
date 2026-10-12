@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Santiago A. Triana
 - Gustavo Guerrero
-- Ankit Barik
+- me
 - Jérémy Rekier
 tags: []
 categories: []

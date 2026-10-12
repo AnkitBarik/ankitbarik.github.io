@@ -5,7 +5,7 @@ title: 'Onset of Convection in Rotating Spherical Shells: Variations With Radius
 subtitle: ''
 summary: ''
 authors:
-- A. Barik
+- me
 - S. A. Triana
 - M. Calkins
 - S. Stanley

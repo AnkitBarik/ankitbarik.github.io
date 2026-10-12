@@ -4,7 +4,7 @@ date: '2026-07-23'
 draft: false
 authors:
 - Lujendra Ojha
-- Ankit Barik
+- me
 - Jacob Buffo
 publication_types: [article-journal]
 featured: true
